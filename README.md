@@ -6,7 +6,7 @@ This repository focuses on building and training `Inception models` for flower c
 ## Key Feature 
 ### 1. Dataset
 ------------------------------------------------------------------
-The dataset used for training the models is the Flowers Recognition dataset, which includes images of flowers categorized as [0, 1, 2, 3, 4]. The dataset can be found here.
+The dataset used for training the models is the Flowers Recognition dataset, which includes images of flowers categorized as [0, 1, 2, 3, 4]. The dataset can be found [here](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition).
 
 ### 2. Models 
 ------------------------------------------------------------------
